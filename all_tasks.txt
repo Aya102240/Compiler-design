@@ -1,0 +1,25 @@
+Task1: 
+1- open file
+2- cut text to tokens
+3- save tokens in a new file and every token of them in a line
+
+Task2:
+1- Write grammar for your language
+
+Task3: 
+1- create dictionary includes all reserved words and the type of them
+2- make sure your tokens in the dictionary
+3- create symbol table
+
+Task4:
+1- create parse tree
+2- create function that give first parser
+3- create function that give follow parser
+4- create parse table from (first, follow)
+
+
+
+تاسك برا الشغل دا ولكن طلبتها
+Write a code to identify if the input string is identifier or not.
+  × the input of this code should be: string
+  × the output of this code should be: true or false
